@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HII! I'M CHANCHAL:
 👩‍💻 Computer Science Engineering Student<br>🌱 Learning C++ & Python | Exploring Web Development & DSA<br>🚀 Turning curiosity into code, building projects, and improving every day.<br>🔁 Learn → Build → Improve → Repeat
 
 
